@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sebgeomag
+- 👀 I’m interested in software and web development, databases and especially in geoinformatics
+- 🌱 I’m currently trying to improve my skills in web development and taking my first steps in the GitHub universe ;-)
+- 💞️ I’m looking to collaborate on open source GIS projects.
+- 📫 You can reach me...here on GitHub
