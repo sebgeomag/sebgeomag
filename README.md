@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sebgeomag
 - 👀 I’m interested in software and web development, databases and especially in geoinformatics
-- I’m looking to collaborate on open source GIS projects.
 - You can reach me...here on GitHub 📫
